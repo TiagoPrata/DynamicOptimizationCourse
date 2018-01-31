@@ -1,0 +1,8 @@
+Parameters
+  u = 4
+  
+Variables
+  x = 0
+  
+Equations
+  5 * $x = -x^2 + u
